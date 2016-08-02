@@ -1,2 +1,2 @@
 # DataStructInLinux
-My DataStruct In Fedora 23
+My DataStruct In Linux
